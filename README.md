@@ -36,6 +36,10 @@ Technologies Used
 Titanic Survival Analysis
 This project analyzes the Titanic Dataset obtained from Kaggle using Python, Pandas, Seaborn, and Matplotlib. The objective is to explore passenger demographics and identify key factors that influenced survival during the Titanic disaster.
 
+Files:
+- tested.csv
+- titanic.ipynb
+
 Project Overview:
 - Loaded the Titanic dataset from Kaggle
 - Explored the structure and contents of the dataset
